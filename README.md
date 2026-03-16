@@ -8,7 +8,7 @@ gostei muito de ficar no computador, e quem sabe não poder trabalhar com isso. 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
 
 ## 📫 Contato
 

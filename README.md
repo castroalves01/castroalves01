@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bem vindo!
 
-<!--
-**castroalves01/castroalves01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Guilherme Castro Alves, tenho 20 anos e sou estudande de Desenvolvimento de Sistemas
+sigo nessa aventura no objetivo de crescer nessa área da computação, desde muito novo sempre
+gostei muito de ficar no computador, e quem sabe não poder trabalhar com isso. 😁
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)
+
+## 📫 Contato
+
+![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)

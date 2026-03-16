@@ -2,7 +2,7 @@
 
 Meu nome é Guilherme Castro Alves, tenho 20 anos e sou estudande de Desenvolvimento de Sistemas
 sigo nessa jornada com o objetivo de crescer na área da computação, desde muito novo sempre
-gostei muito de ficar no computador, e quem sabe não poder trabalhar com isso. 😁
+gostei muito de ficar no computador, e quem sabe poder trabalhar com isso no futuro. 😁
 
 ---
 

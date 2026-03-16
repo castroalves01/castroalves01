@@ -6,11 +6,11 @@ gostei muito de ficar no computador, e quem sabe não poder trabalhar com isso. 
 
 ## 🚀 Tecnologias que estou aprendendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
 
 ## 📫 Contato
 
-![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)
+![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)

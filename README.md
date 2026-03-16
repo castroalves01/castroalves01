@@ -1,13 +1,13 @@
 # Bem vindo!
 
 Meu nome é Guilherme Castro Alves, tenho 20 anos e sou estudande de Desenvolvimento de Sistemas
-sigo nessa aventura no objetivo de crescer nessa área da computação, desde muito novo sempre
+sigo nessa jornada com o objetivo de crescer na área da computação, desde muito novo sempre
 gostei muito de ficar no computador, e quem sabe não poder trabalhar com isso. 😁
 
 ## 🚀 Tecnologias que estou aprendendo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)
 
 ## 📫 Contato
